@@ -1,6 +1,6 @@
-# 🏙️ Jakarta Smart City Data Analysis  
+# Jakarta Smart City Data Analysis  
 
-## 📊 Overview  
+## Overview  
 This project presents a comprehensive exploratory data analysis (EDA) of the **Jakarta Smart City dataset**, focusing on identifying patterns, relationships, and insights that can guide urban decision-making. The analysis explores correlations between population density, education, economic factors, and infrastructure quality across Jakarta’s regions.  
 
 ## Objectives
@@ -26,14 +26,14 @@ The findings highlight that sustainable growth in Jakarta requires a balanced fo
 - Distributing urban infrastructure more evenly across districts.
 
 
-## 🛠️ Tools & Libraries  
+## Tools & Libraries  
 This project was conducted using:  
 - **Python** (Jupyter Notebook)  
 - **Pandas** – data manipulation  
 - **Matplotlib & Seaborn** – visualization  
 - **Scikit-learn** – regression and statistical modeling  
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 .
 ├── data/
@@ -44,5 +44,5 @@ This project was conducted using:
 └── README.md                           # Project documentation
 ```
 
-## 💡 Conclusion  
+## Conclusion  
 This analysis provides a data-driven perspective on Jakarta’s urban dynamics. Future analyses can expand on this by integrating real-time IoT data streams and citizen-sourced feedback to achieve even more responsive smart city governance.
