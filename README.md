@@ -36,19 +36,16 @@ This project was conducted using:
 - **Matplotlib & Seaborn** – visualization  
 - **Scikit-learn** – regression and statistical modeling  
 
-## 📂 Repository Structure  
-│
+## 📂 Repository Structure
+```
+.
 ├── data/
-│ ├── jakarta_smart_city.csv # Main dataset used for analysis
+│   └── jakarta_smart_city.csv          # Main dataset used for analysis
 │
-├── visuals/
-│ ├── correlation_heatmap.png # Generated visualizations
-│ ├── regression_plot.png
-│ └── eda_charts.png
+├── Jakarta Smart City Data Analysis.ipynb    # Main Jupyter Notebook
 │
-├── Jakarta Smart City Data Analysis.ipynb # Main Jupyter Notebook
-│
-├── README.md # Project documentation
+└── README.md                           # Project documentation
+```
 
 ## 💡 Conclusion  
 This analysis provides a data-driven perspective on Jakarta’s urban dynamics. By uncovering the relationships among education, employment, and infrastructure it offers valuable insights that can inform strategic initiatives for sustainable urban growth.
